@@ -1,0 +1,46 @@
+{
+  "Genemator": {
+    "name": "Sokhibjon",
+    "surname": "Orzikulov",
+    "status": "Founder",
+    "rank": "Senior Developer",
+    "profile": "https://bsba.uz/genemator",
+    "telegram": "genemator",
+    "github": "genemators",
+    "experience": ["Javascript (EcmaScript 2019)", "Typescript", "Python 2", "Python 3", "Java", "Kotlin", "C++", "C", "Assembly"],
+    "avatar": "./assets/avatars/genemator.jpg"
+  },
+  "Nagai Matsuge": {
+    "name": "Bobur",
+    "surname": "Komiljonov",
+    "status": "Co-Founder",
+    "rank": "Master Developer",
+    "profile": "https://bsba.uz/nagaimatsuge/",
+    "telegram": "Komiljonov_B",
+    "github": "NagaiMatsuge",
+    "experience": ["JavaScript", "PHP", "Python", "SQL"],
+    "avatar": "./assets/avatars/nagaimatsuge.jpg"
+  },
+  "Itsuki Jayden": {
+    "name": "Abdullo",
+    "surname": "Khodjakbarov",
+    "status": "Supporter",
+    "rank": "Middle Developer",
+    "profile": "https://bsba.uz/itsukijayden/",
+    "telegram": "Sky_Coffees",
+    "github": "Jayden-Izanagi",
+    "experience": ["C++", "C#", "Python", "JavaScript"],
+    "avatar": "./assets/avatars/jayden.jpg"
+  },
+  "Mr.Abdurakhimov": {
+    "name": "Mukhammadyusuf",
+    "surname": "Abdurakhimov",
+    "status": "Active Shifter",
+    "rank": "Master Developer",
+    "profile": "https://bsba.uz/mrabdurakhimov/",
+    "telegram": "iblogs_uz",
+    "github": "MrAbdurakhimov",
+    "experience": ["PHP", "JavaScript", "C++", "Python"],
+    "avatar": "./assets/avatars/mrabdurakhimov.jpg"
+  }
+}

@@ -1,0 +1,6 @@
+export const token = Deno.env.get("BOT_TOKEN")
+export const owner = Deno.env.get("OWNER")
+export const environment = Deno.env.get("ENVIRONMENT")
+export const minecraft = Deno.env.get("MINECRAFT")
+export const domain = Deno.env.get("DOMAIN")
+export const port = Deno.env.get("PORT")

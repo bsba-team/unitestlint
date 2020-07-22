@@ -1,2 +1,2 @@
-# unitestlint
-Unister telegram bot application re-written for deno.land runtime engine.
+# unister
+The telegram bot assistant of The BSBA™ team.
